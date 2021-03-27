@@ -17,4 +17,6 @@ version1.0.0.0
 　起動時に設定画面で、APIキー*を入力  
 　ビデオIDテキストボックスに入力して、更新ボタンを押す（または[Enter]キー)  
 　  
-　 *APIキーの作成方法は(https://qiita.com/iroiro_bot/items/1016a6a439dfb8d21eca)が参考になります。 
+　 *APIキーの作成方法は  
+　 (https://qiita.com/iroiro_bot/items/1016a6a439dfb8d21eca)  
+　 が参考になります。 
