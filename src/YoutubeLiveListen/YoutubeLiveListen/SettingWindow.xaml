@@ -1,0 +1,14 @@
+﻿<Window x:Class="YoutubeLiveListen.SettingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YoutubeLiveListen"
+        mc:Ignorable="d"
+        Title="設定" Height="100" Width="400" Closing="Window_Closing" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="APIキー" HorizontalAlignment="Left" Margin="10,18,0,0" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="APIKeyPasswordBox" HorizontalAlignment="Left" Margin="64,26,0,0" VerticalAlignment="Top" Width="318"/>
+
+    </Grid>
+</Window>
